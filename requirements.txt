@@ -1,3 +1,4 @@
+gogu
 altair
 pandas
 streamlit
