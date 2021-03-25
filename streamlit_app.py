@@ -5,6 +5,8 @@ import pandas as pd
 import streamlit as st
 import coloredlogs
 
+st.write(os.environ)
+
 """
 # Welcome to Streamlit!
 
