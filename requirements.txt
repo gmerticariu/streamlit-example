@@ -1,4 +1,4 @@
+torch
 altair
 pandas
 coloredlogs
-torch
