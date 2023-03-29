@@ -6,7 +6,6 @@ import streamlit as st
 import os
 
 
-quit()
 
 """
 # Welcome to Streamlit edited!
